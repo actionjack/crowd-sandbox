@@ -16,3 +16,6 @@ mod 'puppetlabs/java'
 
 mod 'editfile', 
    :git => 'git://github.com/mstrauss/puppet-editfile.git'
+
+mod 'crowd',
+   :git => 'git@github.com:actionjack/puppet-crowd.git'
